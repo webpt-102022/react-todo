@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import tasks from './data';
 import './App.css';
 
 function App() {
